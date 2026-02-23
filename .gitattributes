@@ -1,0 +1,12 @@
+
+*.php linguist-detectable=true
+*.html linguist-detectable=true
+*.css linguist-detectable=true
+*.js linguist-detectable=true
+
+index.php linguist-language=PHP
+
+kraford_docs.json linguist-generated=true
+kraford_errors.log linguist-generated=true
+
+* text=auto
